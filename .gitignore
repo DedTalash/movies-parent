@@ -1,0 +1,5 @@
+# Project exclude paths
+/accounting-service/target/
+/logger-service/target/
+/mongo-test/target/
+/movies-service/target/

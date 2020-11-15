@@ -1,0 +1,7 @@
+package telran.logging.dto;
+
+public enum ExceptionType {
+NO_EXCEPTION, INVALID_INPUT, 
+NOT_FOUND, AUTHENTICATION_EXCEPTION, 
+AUTHORIZATION_EXCEPTION
+}
